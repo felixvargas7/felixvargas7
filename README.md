@@ -2,7 +2,7 @@
 
 > *Software engineer. Still learning as I go, but seeking to apply my knowledge as well.*
 
-I'm a software engineering fellow at [Marcy Lab School](https://www.marcylabschool.org/) building full-stack web applications with the PERN stack. I care about writing clean, purposeful code — and I bring the same energy to engineering that I bring to everything else: all in.
+I'm a software engineering fellow at [Marcy Lab School](https://www.marcylabschool.org/) in Brooklyn, New York, where I'm building full-stack web applications with the PERN stack. I care about writing clean, purposeful code — and I bring the same energy to engineering that I bring to everything else: all in.
 
 When I'm not coding, you'll find me deep in a game, lost in a book, sketching ideas, or exploring the city I've called home my whole life.
 
