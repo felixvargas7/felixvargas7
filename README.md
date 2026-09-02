@@ -16,18 +16,21 @@ When I'm not coding, you'll find me deep in a game, lost in a book, sketching id
 > 
 > `Swift` `Node.js` `PostgreSQL/Supabase` `Socket.io` `MTA API`
 >
+> 
 > 🟢 **[Compass](https://github.com/F-NAN-AI-ENGINEERING-RESIDENCY/compass)** · Complete
 >
 > Civic tech capstone — virtual classroom app, Product Lead
 >
 > `Python` `FastAPI` `PostgreSQL` `React` `WebSockets` `Gemini`
 >
+> 
 > 🟢 **[WorkStarter](https://github.com/felixvargas7/full-stack-project-remix-felixvargas7/tree/feature/final-revisions)** · Complete
 >
 > PERN workout tracker — primary portfolio project
 >
 > `React` `Express` `PostgreSQL` `Node.js`
 >
+> 
 > 🟢 **[MajFlix](https://github.com/felix-majeed-mls/mod-4-project)** · Complete
 >
 > TV/movie discovery app
