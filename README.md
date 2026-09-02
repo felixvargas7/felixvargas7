@@ -1,4 +1,4 @@
-![# Hey, I'm Felix :)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=header&text=Felix&fontSize=40&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&fontAnimation=gradient)
+![# Hey, I'm Felix :)](./banner.svg)
 
 > *Software engineer. Always learning, always exploring.*
 
