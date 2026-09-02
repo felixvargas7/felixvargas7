@@ -44,4 +44,5 @@ Complete · TV/movie discovery app
 
 ## 📬 Let's connect
 
-[![Email](https://img.shields.io/badge/felix70529@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:felix70529@gmail.com)
+<picture><source media="(prefers-color-scheme: dark)" srcset="./email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./email-light.svg"><a href="mailto:felix70529@gmail.com"><img src="./email-light.svg"></a></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./linkedin-light.svg"><a href="https://www.linkedin.com/in/felixgvargas/"><img src="./linkedin-light.svg"></a></picture>
