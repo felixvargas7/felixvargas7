@@ -1,8 +1,8 @@
 ![Felix](./banner.svg?v=2)
 
-> *Software engineer. Always learning, always exploring.*
+> *Always learning, always exploring.*
 
-I'm a software engineer from [Marcy Lab School](https://www.marcylabschool.org/) in Brooklyn, New York, where I'm building full-stack web applications with the PERN stack. I care about writing clean, purposeful code — and I bring the same energy to engineering that I bring to everything else: all in.
+I'm a software engineer graduate from [Marcy Lab School](https://www.marcylabschool.org/) in Brooklyn, New York, where I've built full-stack web applications with the PERN stack. I care about writing clean, purposeful code — and I bring the same energy to engineering that I bring to everything else: all in.
 
 When I'm not coding, you'll find me deep in a game, lost in a book, sketching ideas, or exploring the city I've called home my whole life.
 
