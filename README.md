@@ -42,7 +42,7 @@ Complete · TV/movie discovery app
 
 ---
 
-## 📬 「 Let's Connect 」
+### 「 Let's Connect 」
 
 <a href="mailto:felix70529@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./email-light.svg"><img src="./email-light.svg"></picture></a>
 <a href="https://www.linkedin.com/in/felixgvargas/"><picture><source media="(prefers-color-scheme: dark)" srcset="./linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./linkedin-light.svg"><img src="./linkedin-light.svg"></picture></a>
