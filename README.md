@@ -14,33 +14,25 @@ When I'm not coding, you'll find me deep in a game, lost in a book, sketching id
 
 ### Featured projects
 
-> 🟡 **[SubTrack NYC](https://github.com/NYC-Subtack-chat/NYC-Transit-App)** · In progress
->
-> NYC transit app, built with a team
-> 
-> `Swift` `Node.js` `PostgreSQL/Supabase` `Socket.io` `MTA API`
->
-> 
-> 🟢 **[Compass](https://github.com/F-NAN-AI-ENGINEERING-RESIDENCY/compass)** · Complete
->
-> Civic tech capstone — virtual classroom app, Product Lead
->
-> `Python` `FastAPI` `PostgreSQL` `React` `WebSockets` `Gemini`
->
-> 
-> 🟢 **[WorkStarter](https://github.com/felixvargas7/full-stack-project-remix-felixvargas7/tree/feature/final-revisions)** · Complete
->
-> PERN workout tracker — primary portfolio project
->
-> `React` `Express` `PostgreSQL` `Node.js`
->
-> 
-> 🟢 **[MajFlix](https://github.com/felix-majeed-mls/mod-4-project)** · Complete
->
-> TV/movie discovery app
->
-> `JavaScript` `Vite` `TVMaze API`
+<picture><source media="(prefers-color-scheme: dark)" srcset="./project-badges/subtrack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-badges/subtrack-light.svg"><a href="https://github.com/NYC-Subtack-chat/NYC-Transit-App"><img src="./project-badges/subtrack-light.svg"></a></picture>
 
+In progress · NYC transit app, built with a team
+`Swift` `Node.js` `PostgreSQL/Supabase` `Socket.io` `MTA API`
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./project-badges/compass-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-badges/compass-light.svg"><a href="https://github.com/F-NAN-AI-ENGINEERING-RESIDENCY/compass"><img src="./project-badges/compass-light.svg"></a></picture>
+
+Complete · Civic tech capstone — virtual classroom app, Product Lead
+`Python` `FastAPI` `PostgreSQL` `React` `WebSockets` `Gemini`
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./project-badges/workstarter-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-badges/workstarter-light.svg"><a href="https://github.com/felixvargas7/full-stack-project-remix-felixvargas7/tree/feature/final-revisions"><img src="./project-badges/workstarter-light.svg"></a></picture>
+
+Complete · PERN workout tracker — primary portfolio project
+`React` `Express` `PostgreSQL` `Node.js`
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./project-badges/majflix-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./project-badges/majflix-light.svg"><a href="https://github.com/felix-majeed-mls/mod-4-project"><img src="./project-badges/majflix-light.svg"></a></picture>
+
+Complete · TV/movie discovery app
+`JavaScript` `Vite` `TVMaze API`
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./tech-stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./tech-stack-light.svg">
