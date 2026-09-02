@@ -1,4 +1,4 @@
-![# Hey, I'm Felix :)](./banner.svg)
+![Felix](./banner.svg?v=2)
 
 > *Software engineer. Always learning, always exploring.*
 
