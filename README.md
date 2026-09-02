@@ -1,4 +1,8 @@
-![Felix](./banner.svg?v=2)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img src="./banner-light.svg" alt="Hey, I'm Felix :)">
+</picture>
 
 > *Always learning, always exploring.*
 
@@ -37,8 +41,11 @@ When I'm not coding, you'll find me deep in a game, lost in a book, sketching id
 >
 > `JavaScript` `Vite` `TVMaze API`
 
-
-![Tech Stack](./tech-stack.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./tech-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./tech-stack-light.svg">
+  <img src="./tech-stack-light.svg" alt="Tech stack">
+</picture>
 
 ---
 
